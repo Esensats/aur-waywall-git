@@ -1,0 +1,6 @@
+# Build artifacts
+pkg/
+src/
+waywall-git/
+*.pkg.tar.*
+*.log
