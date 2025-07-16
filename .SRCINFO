@@ -1,5 +1,5 @@
 pkgbase = waywall-working-git
-	pkgdesc = A Wayland compositor for Minecraft speedrunning with key rebinding and Ninjabrain Bot support
+	pkgdesc = Wayland compositor for Minecraft speedrunning
 	pkgver = wall.r193.g90fafbe
 	pkgrel = 1
 	url = https://github.com/tesselslate/waywall
