@@ -1,0 +1,25 @@
+pkgbase = waywall-git
+	pkgdesc = A Wayland compositor for Minecraft speedrunning with key rebinding and Ninjabrain Bot support
+	pkgver = wall.r193.g90fafbe
+	pkgrel = 1
+	url = https://github.com/tesselslate/waywall
+	arch = x86_64
+	license = GPL-3.0-only
+	makedepends = meson
+	makedepends = ninja
+	makedepends = git
+	makedepends = wayland-protocols
+	depends = libglvnd
+	depends = luajit
+	depends = libspng
+	depends = wayland
+	depends = libxcb
+	depends = xcb-util-cursor
+	depends = xorg-xwayland
+	depends = libxkbcommon
+	provides = waywall
+	conflicts = waywall
+	source = waywall-git::git+https://github.com/tesselslate/waywall.git
+	sha256sums = SKIP
+
+pkgname = waywall-git
