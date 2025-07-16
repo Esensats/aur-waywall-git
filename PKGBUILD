@@ -1,5 +1,5 @@
 # Maintainer: Esensats <esensats@gmail.com>
-pkgname=waywall-git
+pkgname=waywall-working-git
 pkgver=wall.r193.g90fafbe
 pkgrel=1
 pkgdesc="A Wayland compositor for Minecraft speedrunning with key rebinding and Ninjabrain Bot support"
