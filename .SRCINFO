@@ -1,4 +1,4 @@
-pkgbase = waywall-working-git
+pkgbase = waywall-git
 	pkgdesc = Wayland compositor for Minecraft speedrunning
 	pkgver = wall.r193.g90fafbe
 	pkgrel = 1
