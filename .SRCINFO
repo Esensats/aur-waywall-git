@@ -1,4 +1,4 @@
-pkgbase = waywall-git
+pkgbase = waywall-working-git
 	pkgdesc = Wayland compositor for Minecraft speedrunning
 	pkgver = wall.r193.g90fafbe
 	pkgrel = 1
@@ -19,7 +19,7 @@ pkgbase = waywall-git
 	depends = libxkbcommon
 	provides = waywall
 	conflicts = waywall
-	source = waywall-git::git+https://github.com/tesselslate/waywall.git
+	source = waywall-working-git::git+https://github.com/tesselslate/waywall.git
 	sha256sums = SKIP
 
-pkgname = waywall-git
+pkgname = waywall-working-git

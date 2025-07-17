@@ -1,6 +1,6 @@
 # Maintainer: Esensats <esensats@gmail.com>
 # Co-maintainer: tesselslate
-pkgname=waywall-git
+pkgname=waywall-working-git
 pkgver=wall.r193.g90fafbe
 pkgrel=1
 pkgdesc="Wayland compositor for Minecraft speedrunning"
