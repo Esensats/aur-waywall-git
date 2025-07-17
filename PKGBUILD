@@ -1,4 +1,5 @@
 # Maintainer: Esensats <esensats@gmail.com>
+# Co-maintainer: tesselslate
 pkgname=waywall-git
 pkgver=wall.r193.g90fafbe
 pkgrel=1
